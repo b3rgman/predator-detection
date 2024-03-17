@@ -1,4 +1,3 @@
 # predator-detection
 
 
-Hello world.
