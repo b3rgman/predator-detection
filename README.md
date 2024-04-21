@@ -33,3 +33,7 @@ Fishers - Can eat Squirrels, mice and chipmunks.
 # Link
 ---
 https://github.com/b3rgman/predator-detection
+
+[Build Pics](/build.md)
+
+[Predators](/predarors.md)
