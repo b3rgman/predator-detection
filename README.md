@@ -146,8 +146,8 @@ This bible verse is a reminder to be strong when you feel not protected.  The B
 
 https://github.com/b3rgman/predator-detection
 
-[Build Pics](/build.md)
+[Build Pics](build.MD)
 
-[Predators](/predarors.md)
+[Predators](predarors.md)
 
-[Raspberry Pi Pin Out](/pinout.md)
+[Raspberry Pi Pin Out](pinout.md)
