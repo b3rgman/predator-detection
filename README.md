@@ -72,11 +72,17 @@ Most common predators in PA are foxes, coyotes, bears, raccoons, hawks and fishe
 ## Times predators are out
 
 Foxes -  Daytime and noon 
+
 Coyotes - Dawn and sunset 
+
 Bears - Dusk and dawn; nighttime 
+
 Raccoons - Dawn and dusk 
+
 Fishers - daytime and dawn. 
+
 Hawks - evening and morning 
+
 (PennsylvaniaGame Commission)
 
 ## Fears
