@@ -1,4 +1,4 @@
-# predator-detection-system
+# Predator Motion Detector
 
 
 # Purpose
@@ -148,6 +148,6 @@ https://github.com/b3rgman/predator-detection
 
 [Build Pics](build.MD)
 
-[Predators](predarors.md)
+[Predators](predators.md)
 
 [Raspberry Pi Pin Out](pinout.md)
