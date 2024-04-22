@@ -32,7 +32,7 @@
 
 ## Final Project
 
-![Final Project](images/final_project1.jpg)
+![Final Project](images/final_project.jpg)
 
 
 
